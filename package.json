@@ -1,0 +1,17 @@
+{
+  "name": "opn-web3-test",
+  "version": "1.0.0",
+  "description": "Simple Web3 Solidity test project",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "solidity",
+    "web3",
+    "evm",
+    "smart-contracts",
+    "testnet",
+    "blockchain"
+  ],
+  "license": "MIT"
+}Add package metadata for Web3 project
