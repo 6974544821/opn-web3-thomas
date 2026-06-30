@@ -32,3 +32,4 @@ This repository is used for learning blockchain development, Ethereum-compatible
 
 This project is part of my Web3 learning path.
 I am testing Solidity contracts and EVM-compatible testnets.
+Add HelloOPN Solidity smart contract
